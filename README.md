@@ -1,5 +1,9 @@
 # File Transfer In Python With SCP
 
+# Motivation:
+I made this to finish a last semester group project of "Pemrograman Jaringan" subject in Gunadarma University
+![alt text](Tugas.png)
+
 # Article:
 https://hackersandslackers.com/automate-ssh-scp-python-paramiko/
 
