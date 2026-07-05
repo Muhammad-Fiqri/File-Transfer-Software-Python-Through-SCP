@@ -3,6 +3,8 @@
 # Article:
 https://hackersandslackers.com/automate-ssh-scp-python-paramiko/
 
+# Through Terminal
+
 ## For PC to Android
 
 ### Setup SSH with Android
@@ -166,3 +168,7 @@ sudo nano files/examples.txt
 ```
 scp ./files/examples.txt  <username>@<phone_ip>:~/
 ```
+
+# Through Python App:
+
+Work in progress
